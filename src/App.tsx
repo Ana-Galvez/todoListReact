@@ -1,6 +1,8 @@
+import TodoForm from "./components/TodoForm"
+
 const App = () => {
   return (
-    <div>App</div>
+    <TodoForm/>
   )
 }
 export default App
